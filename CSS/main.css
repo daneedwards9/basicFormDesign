@@ -1,0 +1,21 @@
+fieldset {
+background-color: white;
+  float: left;
+  width: 30%;
+}
+
+body {
+  background-color: white;
+}
+
+#howManyObj {
+  width: 30px;
+}
+
+#favoriteAbility {
+width: 100%;
+}
+
+#DesiredMentor {
+  width: 100%;
+}
